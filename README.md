@@ -2,6 +2,14 @@
 This repository contains research papers and abstracts written as part of coursework in Enterprise Computing. Each paper explores modern technologies and concepts relevant to enterprise systems such as IBM mainframes, z/OS, analytics, and disruptive technologies.
 
 ## Table of Contents
+- [Spark Technology Research](https://github.com/jamesql/Enterprise-Computing-Research/blob/main/Spark%20Technology%20Research.pdf)
+- [Docker Research](https://github.com/jamesql/Enterprise-Computing-Research/blob/main/Docker%20Report.pdf)
+- [Blockchain Research](https://github.com/jamesql/Enterprise-Computing-Research/blob/main/Blockchain%20and%20Disruptive%20Technology.pdf)
+- [Air Gap Backup Technology](https://github.com/jamesql/Enterprise-Computing-Research/blob/main/Air%20Gap%20Paper.pdf)
+- [IDAA Technology Research](https://github.com/jamesql/Enterprise-Computing-Research/blob/main/IDAA%20Report.pdf)
+- [Paper on Technical Project Managment]()
+- [History of the Mainframe]()
+- [Research on Quantum Computing]()
 
 ## License
 This repository is intended for academic and personal research purposes only. All referenced content is cited appropriately.
